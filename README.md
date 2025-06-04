@@ -14,7 +14,7 @@ cd order-analytics
 
 ### 2. Start the services using Docker Compose
 ```bash
-docker-compose up
+docker-compose up -d
 ```
 ### 3. Populate the SQS queue with sample data
 Use the provided Python script in the scripts folder to send messages to the Localstack SQS queue:
