@@ -8,7 +8,7 @@ A real-time order analytics system using FastAPI, Redis, and SQS (LocalStack), w
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/order-analytics
+git clone https://github.com/HardikG01/order_analytics.git
 cd order-analytics
 ```
 
